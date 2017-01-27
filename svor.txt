@@ -7,3 +7,5 @@ Gögn eru upplýsingar sem hafa verið þýdd á viðeigandi form sem er þægilegra að f
 Gagnasafnskerfi er tölvu hugbúnaður sem hefur samskipti við notanda, önnur forrit og gagnasafnið sjálft til að grípa og greina gögnin. Almenn gagnasafnskerfi t.d. MySQL eru hönnuð til að leyfa skilgreiningu, sköpun, fyrirspurn, uppfærslur og stjórn gagnasafnsins.
 
 Færsla í gagnagrunni er röð af skyldum gögnum í viðeigandi reitum, hver og einn reitur hefur þá ákveðið gildi. Færsla getur verið framkvæmd af notanda eða tölvu forriti.
+
+Skrá er einfaldlega ílát af gögnum eða upplýsingum. Það eru margar gerðir af skrám sem geyma mismunandi tegundir af upplýsingum.
