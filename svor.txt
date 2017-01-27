@@ -9,3 +9,5 @@ Gagnasafnskerfi er tölvu hugbúnaður sem hefur samskipti við notanda, önnur forri
 Færsla í gagnagrunni er röð af skyldum gögnum í viðeigandi reitum, hver og einn reitur hefur þá ákveðið gildi. Færsla getur verið framkvæmd af notanda eða tölvu forriti.
 
 Skrá er einfaldlega ílát af gögnum eða upplýsingum. Það eru margar gerðir af skrám sem geyma mismunandi tegundir af upplýsingum.
+
+Skráarsnið er staðall sem segir til um tegund af skránni og skilgreinir hvernig bitar eru notaðir til að umrita upplýsingar í rafræna geymslu, á sumum kerfum er skráarsnið skilgreint í nafninu á skránni.
