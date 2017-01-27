@@ -11,3 +11,5 @@ Færsla í gagnagrunni er röğ af skyldum gögnum í viğeigandi reitum, hver og einn 
 Skrá er einfaldlega ílát af gögnum eğa upplısingum. Şağ eru margar gerğir af skrám sem geyma mismunandi tegundir af upplısingum.
 
 Skráarsniğ er stağall sem segir til um tegund af skránni og skilgreinir hvernig bitar eru notağir til ağ umrita upplısingar í rafræna geymslu, á sumum kerfum er skráarsniğ skilgreint í nafninu á skránni.
+
+Í tölvum veita gagnagrunnar afkastamikla leiğ til ağ geyma, sækja og greina gögn. Gagnagrunnar eru sérstaklega mikilvæg fyrir fyrirtæki og rannsóknir, şeir gegna mikilvægu hlutverki í heiminum dag.
