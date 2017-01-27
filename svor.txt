@@ -1,1 +1,3 @@
 Þessi ritgerð fjallar um gagnasöfn og ýmis hugtök. Gögn eru söfnuð og greind af samtökum, stofnunum og ríkisstjórnum út um allan heim.
+
+Gögn eru upplýsingar sem hafa verið þýdd á viðeigandi form sem er þægilegra að færa og vinna með. Gögn geta haft ýmis form, almennt geta gögn verið m.a. tákn, texti, tölur, myndir, hljóð eða vídeó sem hefur verið safnað og þýtt fyrir nokkrum tilgangi, Ef gögn eru ekki sett í samhengi þá eru þau ekki að gera neitt fyrir menn eða tölvur. Á lægsta stigi eru öll gögn í tölvum táknuð sem bitar.
